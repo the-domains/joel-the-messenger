@@ -1,0 +1,23 @@
+name: joel-the-messenger
+favicon: null
+layout_spectrum: 0.6524314086418599
+typography_spectrum: 0.6635743214283139
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors: []
+  brandStrength: 0.3371534605976194
+  lightness: 0.12984220404177904
+  saturation: 0.7697326752822846
+  rhythmicContrast: 0.7887123303953558
+purpose: []
