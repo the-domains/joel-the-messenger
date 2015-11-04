@@ -2,14 +2,21 @@
     <channel>
         <title><![CDATA[joel-the-messenger]]></title>
         <description><![CDATA[joel-the-messenger]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/joel-the-messenger/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Wed, 04 Nov 2015 04:20:09 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Wed, 04 Nov 2015 04:22:30 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/joel-the-messenger/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/ec32aeda-d108-47eb-906c-5c83f1a2edec.jpg">]]></description>
+            <link>https://thegrid.ai/joel-the-messenger/55d1f15b-2ebd-471c-a5a0-4b3f10250d19/index.html</link>
+            <guid isPermaLink="false">55d1f15b-2ebd-471c-a5a0-4b3f10250d19</guid>
+            <pubDate>Wed, 04 Nov 2015 04:22:16 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Music Bio - Joel the Messenger]]></title>
             <description><![CDATA[<article><h1>Music Bio - Joel the Messenger</h1><img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/7fc4f528-c889-4613-8a51-97b0a560afb4.jpg"></article>]]></description>
-            <link>undefinedmusic-bio-joel-the-messenger/index.html</link>
+            <link>https://thegrid.ai/joel-the-messenger/music-bio-joel-the-messenger/index.html</link>
             <guid isPermaLink="false">ffa7308c-da48-4c5f-8f45-3d6952caacf2</guid>
             <pubDate>Wed, 04 Nov 2015 04:20:09 GMT</pubDate>
         </item>
