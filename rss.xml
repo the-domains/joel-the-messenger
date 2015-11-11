@@ -1,11 +1,18 @@
 <?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <channel>
-        <title><![CDATA[Joel the Messenger - Houston Singer/Songwriter]]></title>
-        <description><![CDATA[Joel the Messenger - Houston Singer/Songwriter]]></description>
+        <title><![CDATA[Joel the Messenger - Houston Singer, Songwriter]]></title>
+        <description><![CDATA[Joel the Messenger - Houston Singer, Songwriter]]></description>
         <link>https://thegrid.ai/joel-the-messenger/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Fri, 06 Nov 2015 17:12:44 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 11 Nov 2015 16:10:44 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/joel-the-messenger/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/5fd1359c-b9c3-45db-9e74-e8830ceca1fc.jpg">]]></description>
+            <link>https://thegrid.ai/joel-the-messenger/b6f491af-331e-4f17-8659-db5248d3f255/index.html</link>
+            <guid isPermaLink="false">b6f491af-331e-4f17-8659-db5248d3f255</guid>
+            <pubDate>Wed, 11 Nov 2015 16:09:49 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[No title]]></title>
             <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/18fff8f9-a106-4dc1-828b-9923e1cef4d9.jpg">]]></description>
